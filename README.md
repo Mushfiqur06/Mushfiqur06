@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mushfiqur06" target="blank"><img src="https://img.shields.io/twitter/follow/mushfiqur06?logo=twitter&style=for-the-badge" alt="mushfiqur06" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React.js, Next.js & React-Redux**
+- 🌱 I’m currently learning **Javascript, React.js & Next.js**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mushfiqur06/](https://www.linkedin.com/in/mushfiqur06/)
 
