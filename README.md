@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mushfiqur Rahman Niloy</h1>
 <h3 align="center">A passionate Front-End Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiqur06&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiqur06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushfiqur06" alt="mushfiqur06" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mushfiqur06" target="blank"><img src="https://img.shields.io/twitter/follow/mushfiqur06?logo=twitter&style=for-the-badge" alt="mushfiqur06" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, React.js & Next.js**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mushfiqur06/](https://www.linkedin.com/in/mushfiqur06/)
